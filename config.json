@@ -1999,7 +1999,7 @@
       "vname": "TikTok's Native Tracker (HaGeZi)",
       "group": "Privacy",
       "subg": "HaGeZi",
-      "format": ["wildcards", "wildcard"],
+      "format": ["wildcards", "wildcards"],
       "url": [
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.extended.txt"],
